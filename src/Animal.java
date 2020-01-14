@@ -8,6 +8,7 @@ public class Animal {
 	
 	public static void speak() {
 		System.out.println("Woof, Woof");
+		System.out.println("Hello");
 	}
 
 }
